@@ -1,0 +1,1 @@
+print "hhh{}".format("emmmm")

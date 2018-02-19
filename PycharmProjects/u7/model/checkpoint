@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelCNN_graph.ckpt"
+all_model_checkpoint_paths: "modelCNN_graph.ckpt"

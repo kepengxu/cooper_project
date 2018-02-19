@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cooper/PycharmProjects/GPU1/MBM/save_sess"
+all_model_checkpoint_paths: "/home/cooper/PycharmProjects/GPU1/MBM/save_sess"
